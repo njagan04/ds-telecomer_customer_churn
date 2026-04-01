@@ -1,1 +1,2 @@
-telecom_customer_churn.csv
+/.venv
+*.csv
